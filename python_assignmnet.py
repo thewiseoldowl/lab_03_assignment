@@ -48,7 +48,6 @@ while True:
     print("2. Search by Salary")
     print("3. Search by Employee ID")
     print("4. Exit")
-    
     choice = input("Enter your choice: ")
     
     if choice == "1":
